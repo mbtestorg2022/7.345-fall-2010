@@ -50,20 +50,183 @@ This course is graded pass/fail. Grading will depend on student attendance, part
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Introduction to the general stress response and sporulation (3 sessions)**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| 2 | The general stress response and sporulation | &nbsp; |
-| 3 | Evolution of the general stress response and sporulation | &nbsp; |
-| {{< td-colspan 3 >}}**Mechanisms of sensing stresses (3 sessions)**{{< /td-colspan >}} |||
-| 4 | Protein-protein interactions: Two-component systems | &nbsp; |
-| 5 | sRNAs: Regulating translation mRNA of RpoS (the general stress response activator) | &nbsp; |
-| 6 | Small molecules: The stringent response | &nbsp; |
-| 7 | Field trip to the [Laub laboratory](http://laublab.mit.edu/) | Written Assignments due |
-| {{< td-colspan 3 >}}**Mechanisms of mitigating stresses (4 sessions)**{{< /td-colspan >}} |||
-| 8 | Pumping out toxins: Antibiotics | &nbsp; |
-| 9 | Scavenging toxins: Reactive oxidative species | &nbsp; |
-| 10 | Promoting tolerance: Extreme heat and cold | &nbsp; |
-| 11 | Final oral presentations | &nbsp; |
-| 12 | Repair calls: Single-stranded DNA damage |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Introduction to the general stress response and sporulation (3 sessions)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The general stress response and sporulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of the general stress response and sporulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Mechanisms of sensing stresses (3 sessions)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Protein-protein interactions: Two-component systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+sRNAs: Regulating translation mRNA of RpoS (the general stress response activator)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Small molecules: The stringent response
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the [Laub laboratory](http://laublab.mit.edu/)
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignments due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Mechanisms of mitigating stresses (4 sessions)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Pumping out toxins: Antibiotics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Scavenging toxins: Reactive oxidative species
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Promoting tolerance: Extreme heat and cold
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Final oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Repair calls: Single-stranded DNA damage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
